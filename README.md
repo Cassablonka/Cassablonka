@@ -2,17 +2,17 @@
 
 Hello,<br>I'm Cassablonka, a frontend engineer with nearly 3 years of experience in building products with great user interfaces. <br>Currently, I'm bringing my skills to a startup in Mumbai, where I work on developing their Core Banking Product.
 
-# ✨ Know Me :
+# <br/> ✨ Know Me :
 
 🌱 I’m a passionate Frontend Engineer hailing from Nagpur, India 🧡.  
 💬 I love talking about React, Node.js, JavaScript, TypeScript and Technology in general 🙌.  
 👯 I’m looking to collaborate with other great developers across the web.  
 ⚡ Fun fact: I once started a private limited company and sold it.
 
-# 🌐 Socials :
+# <br/> 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cassablonka) 
 
-# 💻 Tech I Use :
+# <br/> 💻 Tech I Use :
 
 ### ✨ Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -30,7 +30,7 @@ Hello,<br>I'm Cassablonka, a frontend engineer with nearly 3 years of experience
 ### ✨ Project Management
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
-# 📊 GitHub Stats :
+# <br/> 📊 GitHub Stats :
 
 
 ### 🔝 Top Contributed Repo
@@ -45,7 +45,7 @@ Hello,<br>I'm Cassablonka, a frontend engineer with nearly 3 years of experience
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cassablonka&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# ✍️ Quote I Live By
+# <br/> ✍️ Quote I Live By
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,12 +1,19 @@
 # 💫 Introduction :
 
-Hello,<br>I'm Cassablonka, a frontend engineer with nearly 3 years of experience in building products with great user interfaces. <br>Currently, I'm bringing my skills to a startup in Mumbai, where I work on developing their Core Banking Product.
+Hello,<br>I'm Cassablonka, a frontend engineer with nearly 3 years of experience in building applications with beautiful user interfaces. <br>Currently, I'm bringing my skills to a startup in Mumbai, where I work on developing their Core Banking Product.
 
 # <br/> ✨ Know Me :
 
-🌱 I’m a passionate Frontend Engineer hailing from Nagpur, India 🧡.  
-💬 I love talking about React, Node.js, JavaScript, TypeScript and Technology in general 🙌.  
-👯 I’m looking to collaborate with other great developers across the web.  
+🌱 I'm a passionate Frontend Engineer from Nagpur, India 🧡  
+
+💬 I enjoy discussing React, Node.js, JavaScript, TypeScript, and all things technology.  
+
+🌐 Check out my portfolio: cassablonka.github.io/PortfolioWebsite  
+
+📧 Let's talk about building great ideas: cassablonka.p@gmail.com  
+
+👯 I'm excited to collaborate with developers focused on solving everyday human challenges.  
+
 ⚡ Fun fact: I once started a private limited company and sold it.
 
 # <br/> 🌐 Socials :

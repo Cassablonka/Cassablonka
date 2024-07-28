@@ -36,8 +36,8 @@ Hello,<br>I'm Cassablonka, a frontend engineer with nearly 3 years of experience
 ### 🔝 Top Contributed Repo
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cassablonka&repo=Swiggy-Turborepo&show_owner=true&theme=algolia)](https://github.com/alok722/namaste-javascript-notes)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cassablonka&repo=CineSelect&show_owner=true&theme=algolia)](https://github.com/alok722/express-server-boilerplate)<br/><br/>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cassablonka&repo=Swiggy-Turborepo&show_owner=true&theme=algolia)](https://github.com/Cassablonka/Swiggy-Turborepo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cassablonka&repo=CineSelect&show_owner=true&theme=algolia)](https://github.com/Cassablonka/CineSelect)<br/><br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=cassablonka&theme=github_dark&hide_border=false)<br/><br/>
 

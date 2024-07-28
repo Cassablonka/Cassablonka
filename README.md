@@ -16,9 +16,6 @@ Hello,<br>I'm Cassablonka, a frontend engineer with nearly 3 years of experience
 
 ⚡ Fun fact: I once started a private limited company and sold it.
 
-# <br/> 🌐 Socials :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cassablonka) 
-
 # <br/> 💻 Tech I Use :
 
 ### ✨ Programming Languages

@@ -8,7 +8,7 @@ Hello,<br>I'm Cassablonka, a frontend engineer with nearly 3 years of experience
 
 💬 I enjoy discussing React, Node.js, JavaScript, TypeScript, and all things technology.  
 
-🌐 Check out my portfolio: cassablonka.github.io/PortfolioWebsite  
+🌐 Check out my portfolio: https://cassablonka.github.io/PortfolioWebsite/  
 
 📧 Let's talk about building great ideas: cassablonka.p@gmail.com  
 

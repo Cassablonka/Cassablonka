@@ -1,6 +1,8 @@
 # 💫 Introduction :
 
-Hello,<br>I'm Cassablonka, a frontend engineer with nearly 3 years of experience in building applications with beautiful user interfaces. <br>Currently, I'm bringing my skills to a startup in Mumbai, where I work on developing their Core Banking Product.
+Hello,<br>I'm Cassablonka, a Frontend Developer with 3 years of hands-on experience working with the founding team of a fintech
+product-based startup, focusing on React,TypeScript. I also previously co-founded a startup where we
+developed prototype app that was incubated, gaining valuable entrepreneurial experience.
 
 # <br/> ✨ Know Me :
 
@@ -8,7 +10,7 @@ Hello,<br>I'm Cassablonka, a frontend engineer with nearly 3 years of experience
 
 💬 I enjoy discussing React, Node.js, JavaScript, TypeScript, and all things technology.  
 
-🌐 Check out my portfolio: https://cassablonka.github.io/PortfolioWebsite/  
+🌐 Check out my portfolio: https://cassablonka.vercel.app 
 
 📧 Let's talk about building great ideas: cassablonka.p@gmail.com  
 

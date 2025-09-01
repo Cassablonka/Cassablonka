@@ -1,14 +1,14 @@
 # 💫 Introduction :
 
-Hello,<br>I'm Cassablonka, a Frontend Developer with 3 years of hands-on experience working with the founding team of a fintech
-product-based startup, focusing on React,TypeScript. I also previously co-founded a startup where we
+Hello,<br>I'm Cassablonka, a Frontend Developer with 3.8+ years of hands-on experience working with the founding team of a fintech
+product-based startup, focusing on React,TypeScript alongwith Ship Management Product. I also previously co-founded a startup where we
 developed prototype app that was incubated, gaining valuable entrepreneurial experience.
 
 # <br/> ✨ Know Me :
 
-🌱 I'm a passionate Frontend Engineer from Nagpur, India 🧡  
+🌱 I'm a passionate Frontend Engineer from Pune, India 🧡  
 
-💬 I enjoy discussing React, Node.js, JavaScript, TypeScript, and all things technology.  
+💬 I enjoy discussing ReactJs, NextJs, Node.js, JavaScript, TypeScript, and all things technology.  
 
 🌐 Check out my portfolio: https://cassablonka.vercel.app 
 
